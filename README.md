@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I'm a junior Python-developer
+- 💪 I like to write code
 ### Connect with me:
 [<img align="left" alt="EvgeniiZalesski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
@@ -46,6 +48,5 @@ Here are some ideas to get you started:
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Evgenii141988&show_icons=true" />
 </details>
-
 
 [linkedin]: https://www.linkedin.com/in/zalesski/
