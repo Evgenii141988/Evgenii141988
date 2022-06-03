@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 + [Python Core Sololearn](https://github.com/Evgenii141988/my_certificates/blob/main/Python_Core_sololearn.pdf)
 + [SQL Sololearn](https://github.com/Evgenii141988/my_certificates/blob/main/SQL_sololearn.pdf)
 + [Interactive SQL Trainer](https://github.com/Evgenii141988/my_certificates/blob/main/Interactive_SQL_Trainer.pdf)
++ [Test Automation with Selenium and Python](https://github.com/Evgenii141988/my_certificates/blob/main/Test_Automation_with_Selenium_and_Python.pdf)
 + [English](https://github.com/Evgenii141988/my_certificates/blob/main/English_EF_SET_Certificate.pdf)
 <br />
 <br />
