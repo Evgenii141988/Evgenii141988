@@ -43,6 +43,12 @@ Here are some ideas to get you started:
 + [English](https://github.com/Evgenii141988/my_certificates/blob/main/English_EF_SET_Certificate.pdf)
 <br />
 <br />
+
+### My resume:
++ [Zalesski CV eng](https://github.com/Evgenii141988/my_certificates/blob/main/Zalesski_CV_2.pdf)
+<br />
+<br />
+
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenii141988&langs_count=8&layout=compact" />
