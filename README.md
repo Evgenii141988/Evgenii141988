@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 + [Test Automation with Selenium and Python](https://github.com/Evgenii141988/my_certificates/blob/main/Test_Automation_with_Selenium_and_Python.pdf)
 + [English](https://github.com/Evgenii141988/my_certificates/blob/main/English_EF_SET_Certificate.pdf)
 <br />
-<br />
 
 ### My resume:
 + [Zalesski CV eng](https://github.com/Evgenii141988/my_certificates/blob/main/Zalesski_CV_2.pdf)
