@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <br />
 
 ### My certificates:
++ [Good good Python OOP from Sergey Balakirev](https://github.com/Evgenii141988/my_certificates/blob/main/Good_good_Python_OOP_course_Sergey_Balakirev_100.pdf)
 + [Python programming](https://github.com/Evgenii141988/my_certificates/blob/main/Python_programming.pdf)
 + [Python basics and application](https://github.com/Evgenii141988/my_certificates/blob/main/Python_basics_and_application.pdf)
 + [Python generation course for beginners](https://github.com/Evgenii141988/my_certificates/blob/main/Python_generation_course_for_beginners.pdf)
